@@ -1,4 +1,4 @@
-# first-html-ever
+# first-html-ever - A LV Beethoven Fan Page
 
 A pre-Coding-Bootcamp project asking me to build a simple fanpage for a favorite band. I chose Mr. Ludwig Van Beethoven as my "band". 
 
